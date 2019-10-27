@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>643</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QPushButton" name="gameButton_0">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>170</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>80</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="gameButton_1">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>170</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>80</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="gameButton_2">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>170</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>80</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <item>
+       <widget class="QPushButton" name="gameButton_3">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>170</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>80</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="gameButton_4">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>170</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>80</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="gameButton_5">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>170</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>80</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_3">
+      <item>
+       <widget class="QPushButton" name="gameButton_6">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>170</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>80</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="gameButton_7">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>170</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>80</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="gameButton_8">
+        <property name="minimumSize">
+         <size>
+          <width>100</width>
+          <height>170</height>
+         </size>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>80</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QPushButton" name="newGameButton">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>70</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>20</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>New Game</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
